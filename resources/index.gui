@@ -1,0 +1,12 @@
+<svg class="background">
+  <text id="time" />
+  <text id="date" />
+  <text id="bpm" />
+  <text id="battery" />
+  <text id="steps1" />
+  <text id="steps2" />
+</svg>
+
+
+
+

@@ -1,0 +1,63 @@
+.background {
+  viewport-fill: black;
+}
+
+#time {
+  font-size: 73;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 15%+40;
+  fill: white;
+}
+
+#date {
+  font-size: 40;
+  font-family: System-Bold;
+  text-length: 100;
+  text-anchor: middle;
+  x: 50%;
+  y: 30%+40;
+  fill: white;
+}
+
+#bpm {
+  font-size: 30;
+  font-family: System-Bold;
+  text-length: 100;
+  text-anchor: middle;
+  x: 20%;
+  y: 85%+40;
+  fill: red;
+}
+
+#battery {
+  font-size: 30;
+  font-family: System-Bold;
+  text-length: 100;
+  text-anchor: middle;
+  x: 87%;
+  y: 85%+40;
+  fill: red;
+}
+
+#steps1 {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 100;
+  text-anchor: middle;
+  x: 10%;
+  y: 75%+40;
+  fill: orange;
+}
+
+#steps2 {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 100;
+  text-anchor: middle;
+  x: 42%;
+  y: 75%+40;
+  fill: orange;
+}
